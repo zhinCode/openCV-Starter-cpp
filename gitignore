@@ -1,0 +1,99 @@
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.dylib
+*.so
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.mod
+*.exp
+
+# Other files and directories
+*.DS_Store
+*.directory
+*.vscode/
+.idea/
+.vscode/
+*.swp
+*.swo
+*.class
+*.pyc
+*.pyo
+*.db
+*.sqlite
+
+# Visual Studio files
+.vscode/
+*.code-workspace
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.vspscc
+*.vssscc
+.builds/
+Build/
+_ReSharper.Caches/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+build/
+CMakeLists.txt.user
+
+# Qt Creator files
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# Qt files
+*.moc
+*.qrc
+
+# Backup files
+*.bak
+*.backup
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
